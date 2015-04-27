@@ -1,0 +1,9 @@
+---
+title: 一日一程锴 程锴回家了
+author: killpanda
+layout: post
+permalink: /cheng-kai-is-back/
+categories:
+  - Uncategorized
+---
+程锴经过大风大浪终于回来了　中途还拆散了一对情侣　程锴经过折磨明显瘦了　而且还楞了　不过他还认得自己的窝　晚上睡觉　从床上下来取手机　结果他汪汪一顿叫　好像看家的小狗似的　咦？他会叫了　神奇了

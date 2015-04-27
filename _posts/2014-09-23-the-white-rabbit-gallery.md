@@ -1,0 +1,33 @@
+---
+title: The White Rabbit Gallery
+author: killpanda
+layout: post
+permalink: /the-white-rabbit-gallery/
+categories:
+  - life
+---
+上周去了这个大白兔子艺术馆，它在 Central Park 的后面。我经过过好几次 Central Park，也知道他附近有好多奇奇怪怪的和艺术相关的建筑。但还真就没有去过那个地方。
+
+去的过程中遇到一个一群熊孩子往一个小喷泉里倒了好几瓶子清洁剂，整个喷泉就成了一个大泡泡浴的池子，路人看到了也不甘寂寞，纷纷开始把泡泡捧出来到处扔着玩。
+
+这个艺术馆专注于中国展品的收藏而出名。貌似我这个假文艺青年连这个都不知道，还真是挺没面子。还好 Daniel 年轻时是学艺术的，除了赚钱之外，他出没的娱乐场所都是与艺术相关。
+
+<img class="aligncenter wp-image-222 size-full" src="{{ site.url }}/assets/2014/09/IMG_0489.jpg" alt="tools tree" width="1024" height="1024" />进去之后一共大概有四层楼，一楼是一个小咖啡馆，二三四层楼都是展览的艺术品。艺术品大概每三个月一换，这三个月主要是一些现代艺术。分别主要有三个主题：第一个是一些解构了的老照片，就是给老的黑白照片赋予动态效果，好多艺术家都在做这个（比如我）。
+
+[<img class="aligncenter size-full wp-image-213" src="{{ site.url }}/assets/2014/09/avatar.gif" alt="avatar" width="950" height="950" />][1]
+
+另外一个主题是把一些新闻上头条的配图用油画重新绘制。最后的一个是关于文革审美，模拟中国老式的房间，花棉被，热炕头，毛主席的剪贴画等等。
+
+[<img class="aligncenter wp-image-224 size-full" src="{{ site.url }}/assets/2014/09/IMG_0487.jpg" alt="old room" width="1024" height="1024" />][2]
+
+当然，凡是和中国沾边，并且老外感兴趣的艺术品，都会似有似无的沾着似有似无的政治味道，或是玩弄蔑视，或是深刻批判。印象比较深刻的是竟然在里面看到了艾未未的葵花籽，最开始的展览是布置了在一个房间里铺了一地，不过现在只有一小撮了，不知道是不是首次展览之后他们分批运到世界各地了。Daniel 觉得艾未未是中国最伟大的现存艺术家，不论是艺术成就还是政治态度。
+
+[<img class="aligncenter size-full wp-image-223" src="{{ site.url }}/assets/2014/09/IMG_0488.jpg" alt="Sunflower seeds" width="1024" height="1024" />][3]
+
+完事后我们去了一楼的休闲区，整个感觉就是一个中国风的饭店，里面提供各类茶和手工水饺。我们点了菊花枸杞茶，自从高考不再需要硬性熬夜后，好久没喝到那个东西了。
+
+休闲区的天棚上挂满了各种各样的鸟笼，我告诉 Daniel 说，其实中国人遛鸟的很多都是为了秀鸟笼。其实我没见过，都是听于谦说的。别人吹牛逼时候默默把段子记下来，在有用的场合转述出来，就是传说中的云吹牛逼吧！
+
+ [1]: http://www.killpanda.de/wp-content/uploads/2014/09/avatar.gif
+ [2]: http://www.killpanda.de/wp-content/uploads/2014/09/IMG_0487.jpg
+ [3]: http://www.killpanda.de/wp-content/uploads/2014/09/IMG_0488.jpg
