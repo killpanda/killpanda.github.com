@@ -2,7 +2,6 @@
 title: Restart My Blog
 author: killpanda
 layout: post
-permalink: /restart-my-blog/
 ---
 The thing motivating me to restart blogging is the quote
 

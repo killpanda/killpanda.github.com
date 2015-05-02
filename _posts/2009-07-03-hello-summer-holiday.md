@@ -2,7 +2,6 @@
 title: 假期开始了
 author: killpanda
 layout: post
-permalink: /hello-summer-holiday/
 categories:
   - Uncategorized
 ---

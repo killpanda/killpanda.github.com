@@ -2,7 +2,6 @@
 title: 牙的故事
 author: killpanda
 layout: post
-permalink: /story-of-my-teeth/
 ---
 我有一颗大蛀牙,被欺软怕硬的傻徐同学嘲笑了好几天了.
 

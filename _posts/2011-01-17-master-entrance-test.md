@@ -2,7 +2,6 @@
 title: 恩 考研结束了
 author: killpanda
 layout: post
-permalink: /master-entrance-test/
 categories:
   - Uncategorized
 ---

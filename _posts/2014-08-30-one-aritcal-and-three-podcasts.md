@@ -2,7 +2,6 @@
 title: 一篇长文和三段播客
 author: killpanda
 layout: post
-permalink: /one-aritcal-and-three-podcasts/
 categories:
   - Uncategorized
 ---

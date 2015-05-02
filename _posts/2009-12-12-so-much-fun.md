@@ -2,7 +2,6 @@
 title: 特别有喜感
 author: killpanda
 layout: post
-permalink: /so-much-fun/
 ---
 今天我给我们一个部员发短信 问一个人的电话号码 跟他说 你有XX的电话么? 结果问号打成了感叹号 
 

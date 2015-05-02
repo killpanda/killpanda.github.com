@@ -2,7 +2,6 @@
 title: 影评了
 author: killpanda
 layout: post
-permalink: /film-review/
 categories:
   - Uncategorized
 tags:

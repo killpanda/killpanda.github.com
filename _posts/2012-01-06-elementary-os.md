@@ -2,7 +2,6 @@
 title: elementary OS，另一个思路
 author: killpanda
 layout: post
-permalink: /elementary-os/
 ---
 
 要是没记错的话，elementary Project 最开始只有一个 elementary 主题，之后延伸出了很多项目，形成了 elementary Project 项目组，并有了 elementary OS。

@@ -2,7 +2,6 @@
 title: 饱醉豚很有喜感
 author: killpanda
 layout: post
-permalink: /bapzuitun-is-fun/
 categories:
   - Uncategorized
 ---

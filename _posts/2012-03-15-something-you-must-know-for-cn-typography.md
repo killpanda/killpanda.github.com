@@ -2,7 +2,6 @@
 title: 中文排版上的一些規則
 author: killpanda
 layout: post
-permalink: /%e4%b8%ad%e6%96%87%e6%8e%92%e7%89%88%e4%b8%8a%e7%9a%84%e4%b8%80%e4%ba%9b%e8%a6%8f%e5%89%87/
 tags:
   - css
   - Typography

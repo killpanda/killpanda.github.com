@@ -2,7 +2,6 @@
 title: 梦的解析2
 author: killpanda
 layout: post
-permalink: /interpret-a-dream-2/
 categories:
   - Uncategorized
 ---

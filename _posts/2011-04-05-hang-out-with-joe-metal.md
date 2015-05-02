@@ -2,7 +2,6 @@
 title: 和大莱出去玩
 author: killpanda
 layout: post
-permalink: /hang-out-with-joemetal/
 categories:
   - Uncategorized
 ---

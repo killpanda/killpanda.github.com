@@ -2,7 +2,6 @@
 title: 最近
 author: killpanda
 layout: post
-permalink: /recent-life/
 ---
 *   最近生活过于安逸，于是结果就是没啥可写的
 *   每当我想到雅思就会很紧张，而且睡不好，我从来没这么耸过

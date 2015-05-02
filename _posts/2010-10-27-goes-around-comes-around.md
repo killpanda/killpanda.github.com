@@ -2,7 +2,6 @@
 title: Goes around, comes around
 author: killpanda
 layout: post
-permalink: /goes-around-comes-around/
 ---
 这个域名和空间(<http://mayue.me>)是昨天晚上买的. 今天搭上了wordpress. 反正是弄个自己的空间弄弄肯定会比在电脑上自己搭个tomcat好玩得多.
 

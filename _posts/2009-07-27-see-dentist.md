@@ -2,7 +2,6 @@
 title: 今天又去看牙了
 author: killpanda
 layout: post
-permalink: /see-dentist/
 categories:
   - Uncategorized
 ---

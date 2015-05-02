@@ -2,7 +2,6 @@
 title: 一个月前的旅行 = =
 author: killpanda
 layout: post
-permalink: /%e4%b8%80%e4%b8%aa%e6%9c%88%e5%89%8d%e7%9a%84%e6%97%85%e8%a1%8c/
 categories:
   - Uncategorized
 ---

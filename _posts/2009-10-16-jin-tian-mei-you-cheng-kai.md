@@ -2,7 +2,6 @@
 title: 一日一程锴:今天没有程锴
 author: killpanda
 layout: post
-permalink: /jin-tian-mei-you-cheng-kai/
 ---
 今天程锴被抱走了 = = 而且是在这个栏目开始的第三天(而且是在第一天忘发贴的情况下) 
 

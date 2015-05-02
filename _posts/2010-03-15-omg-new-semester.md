@@ -2,7 +2,6 @@
 title: OMG开学了
 author: killpanda
 layout: post
-permalink: /omg-new-semester/
 ---
 13号抵达长春,陪着徐老婆呆了一天,分别时长春下起了雪  
 

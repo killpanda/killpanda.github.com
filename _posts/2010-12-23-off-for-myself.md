@@ -2,7 +2,6 @@
 title: 自己给自己放假了
 author: killpanda
 layout: post
-permalink: /off-for-myself/
 ---
 忙忙呼呼的赶回来,一如既往的坐的硬座,而告诉家里是卧铺.
 

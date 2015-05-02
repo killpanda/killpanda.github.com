@@ -2,7 +2,6 @@
 title: 一日一程锴 昨天他瘸了
 author: killpanda
 layout: post
-permalink: /cheng-kai-got-lame/
 categories:
   - Uncategorized
 ---

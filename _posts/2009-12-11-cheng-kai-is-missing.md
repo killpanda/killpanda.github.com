@@ -2,7 +2,6 @@
 title: 程锴丢了
 author: killpanda
 layout: post
-permalink: /cheng-kai-is-missing/
 ---
 事隔了好几天,我依然不承认小狗丢了.
 

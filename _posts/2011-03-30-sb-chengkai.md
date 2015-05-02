@@ -2,7 +2,6 @@
 title: 关于某锴的三四十事
 author: killpanda
 layout: post
-permalink: /%e5%85%b3%e4%ba%8e%e6%9f%90%e9%94%b4%e7%9a%84%e4%b8%89%e5%9b%9b%e5%8d%81%e4%ba%8b/
 categories:
   - Uncategorized
 ---

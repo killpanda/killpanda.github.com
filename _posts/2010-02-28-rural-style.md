@@ -2,7 +2,6 @@
 title: 土死了
 author: killpanda
 layout: post
-permalink: /%e5%9c%9f%e6%ad%bb%e4%ba%86/
 categories:
   - Uncategorized
 tags:

@@ -2,7 +2,6 @@
 title: 雅思之后
 author: killpanda
 layout: post
-permalink: /after-first-ielts-test/
 ---
 其实雅思准备的还算充分,只不过很不小心的遇到了各种各样的不顺利,所以不知道结果怎样,尤其是口语,竟然在第一个问题上卡壳了,而且卡了那么那么久.假如要再考一次我也认了,我似乎现在不那么急躁了.  
 

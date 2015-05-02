@@ -2,7 +2,6 @@
 title: 世界杯很激情 寝室人们很淡定
 author: killpanda
 layout: post
-permalink: /world-cup-is-cool/
 categories:
   - Uncategorized
 ---

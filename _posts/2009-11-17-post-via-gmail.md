@@ -2,7 +2,6 @@
 title: 这是来自 GMail 里的一封博文
 author: killpanda
 layout: post
-permalink: /post-via-gmail/
 categories:
   - Uncategorized
 ---

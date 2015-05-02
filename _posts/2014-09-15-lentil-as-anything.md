@@ -2,7 +2,6 @@
 title: Lentil As Anything
 author: killpanda
 layout: post
-permalink: /lentil-as-anything/
 categories:
   - life
 ---
@@ -14,6 +13,4 @@ categories:
 
 后记：我读了一下对菜品的描述，发现读起来像是某个制毒大棚里瘾君子的作品，其实他们水准很好的！
 
-[<img class="aligncenter size-full wp-image-211" src="{{ site.url }}/assets/2014/09/Lentil_As_Anything.jpeg" alt="Lentil_As_Anything" width="810" height="1080" />][1]
-
- [1]: http://www.killpanda.de/wp-content/uploads/2014/09/Lentil_As_Anything.jpeg
+![image]({{ site.url }}/assets/2014/09/Lentil_As_Anything.jpeg)

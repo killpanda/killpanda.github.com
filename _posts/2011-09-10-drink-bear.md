@@ -2,7 +2,6 @@
 title: 喝酒
 author: killpanda
 layout: post
-permalink: /%e5%96%9d%e9%85%92/
 categories:
   - Uncategorized
 ---

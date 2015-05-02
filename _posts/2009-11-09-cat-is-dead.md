@@ -2,7 +2,6 @@
 title: 小猫走了
 author: killpanda
 layout: post
-permalink: /cat-is-dead/
 categories:
   - Uncategorized
 tags:

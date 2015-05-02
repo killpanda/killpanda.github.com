@@ -2,7 +2,6 @@
 title: 买年货
 author: killpanda
 layout: post
-permalink: /shopping-with-mom/
 categories:
   - Uncategorized
 tags:

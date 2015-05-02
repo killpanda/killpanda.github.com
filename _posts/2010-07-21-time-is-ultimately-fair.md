@@ -2,7 +2,6 @@
 title: 时间是不偏袒于傻逼的,就和老师讨厌差生一样
 author: killpanda
 layout: post
-permalink: /time-is-ultimately-fair/
 ---
 计划
 

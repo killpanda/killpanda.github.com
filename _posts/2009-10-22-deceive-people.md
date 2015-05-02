@@ -2,7 +2,6 @@
 title: 今天遇到骗子鸟
 author: killpanda
 layout: post
-permalink: /deceive-people/
 categories:
   - Uncategorized
 ---

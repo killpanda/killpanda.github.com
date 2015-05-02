@@ -2,7 +2,6 @@
 title: 写20件关於自己的事情
 author: killpanda
 layout: post
-permalink: /20-things-about-me/
 categories:
   - Uncategorized
 ---

@@ -1,7 +1,6 @@
 ---
 author: killpanda
 layout: post
-permalink: /architecture/
 categories:
   - Uncategorized
 ---

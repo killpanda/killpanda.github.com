@@ -2,7 +2,6 @@
 title: 人是可以改变的,不是只能像这样寸步难行
 author: killpanda
 layout: post
-permalink: /need-to-change/
 categories:
   - Uncategorized
  ---

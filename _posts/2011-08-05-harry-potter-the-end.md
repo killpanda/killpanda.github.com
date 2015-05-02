@@ -2,7 +2,6 @@
 title: 哈利波特的故事结束了
 author: killpanda
 layout: post
-permalink: /%e5%93%88%e5%88%a9%e6%b3%a2%e7%89%b9%e7%9a%84%e6%95%85%e4%ba%8b%e7%bb%93%e6%9d%9f%e4%ba%86/
 categories:
   - Uncategorized
 ---

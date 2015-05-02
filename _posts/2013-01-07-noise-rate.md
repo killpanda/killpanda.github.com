@@ -2,7 +2,6 @@
 title: 信噪比
 author: killpanda
 layout: post
-permalink: /%e4%bf%a1%e5%99%aa%e6%af%94/
 categories:
   - Uncategorized
 ---

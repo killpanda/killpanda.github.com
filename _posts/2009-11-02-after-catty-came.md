@@ -2,7 +2,6 @@
 title: 小猫来了以后
 author: killpanda
 layout: post
-permalink: /after-catty-came/
 categories:
   - Uncategorized
 ---

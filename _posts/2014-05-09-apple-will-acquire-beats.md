@@ -2,7 +2,6 @@
 title: Apple will acquire Beats
 author: killpanda
 layout: post
-permalink: /apple-will-acquire-beats/
 categories:
   - Uncategorized
 ---

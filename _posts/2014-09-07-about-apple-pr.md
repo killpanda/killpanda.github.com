@@ -2,7 +2,6 @@
 title: 'Seeing Through the Illusion: Understanding Apple’s Mastery of the Media'
 author: killpanda
 layout: post
-permalink: /about-apple-pr/
 format: link
 ---
 

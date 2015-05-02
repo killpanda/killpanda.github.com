@@ -2,7 +2,6 @@
 title: 假期结束了
 author: killpanda
 layout: post
-permalink: /holiday-ends/
 categories:
   - Uncategorized
 tags:

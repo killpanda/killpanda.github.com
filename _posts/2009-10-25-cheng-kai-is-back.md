@@ -2,7 +2,6 @@
 title: 一日一程锴 程锴回家了
 author: killpanda
 layout: post
-permalink: /cheng-kai-is-back/
 categories:
   - Uncategorized
 ---

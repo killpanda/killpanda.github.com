@@ -2,7 +2,6 @@
 title: 过年了
 author: killpanda
 layout: post
-permalink: /%e8%bf%87%e5%b9%b4%e4%ba%86/
 categories:
   - Uncategorized
 tags:

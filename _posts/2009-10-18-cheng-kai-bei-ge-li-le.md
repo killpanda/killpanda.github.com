@@ -2,7 +2,6 @@
 title: 一日一程锴:程锴被隔离了
 author: killpanda
 layout: post
-permalink: /cheng-kai-bei-ge-li-le/
 categories:
   - Uncategorized
 ---

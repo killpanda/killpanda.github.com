@@ -2,7 +2,6 @@
 title: 搬家记
 author: killpanda
 layout: post
-permalink: /moving-home/
 ---
 ![image]( {{ site.url}}/assets/2014/2014-10-23.jpg )
 

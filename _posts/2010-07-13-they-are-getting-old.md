@@ -2,7 +2,6 @@
 title: 我目睹了他们的老去
 author: killpanda
 layout: post
-permalink: /they-are-getting-old/
 ---
 回来一直在家里呆着 不能说学习了 也不能说一点书没看 在家呆了11天之后 我终于出门了 第一次献给了约会
 

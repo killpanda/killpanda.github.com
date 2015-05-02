@@ -2,7 +2,6 @@
 title: 设计的魅力
 author: killpanda
 layout: post
-permalink: /the-power-of-design/
 ---
 逸夫教学楼的设计特别巧夺天工,也处处体现了逸夫同志作为一名投资家盖楼房时候的周到.
 

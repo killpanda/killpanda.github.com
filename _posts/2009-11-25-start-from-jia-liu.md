@@ -2,7 +2,6 @@
 title: 就从甲流说起
 author: killpanda
 layout: post
-permalink: /start-from-jia-liu/
 categories:
   - Uncategorized
 

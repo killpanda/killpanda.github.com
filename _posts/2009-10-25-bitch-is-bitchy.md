@@ -2,7 +2,6 @@
 title: 我发现人就是贱的
 author: killpanda
 layout: post
-permalink: /bitch-is-bitchy/
 categories:
   - Uncategorized
 ---

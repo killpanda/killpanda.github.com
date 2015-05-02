@@ -2,7 +2,6 @@
 title: 微信的名字
 author: killpanda
 layout: post
-permalink: /%e5%be%ae%e4%bf%a1%e7%9a%84%e5%90%8d%e5%ad%97/
 categories:
   - Uncategorized
 ---

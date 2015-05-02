@@ -2,7 +2,6 @@
 title: 大莱奇遇记
 author: killpanda
 layout: post
-permalink: /joemetal-story/
 categories:
   - Uncategorized
 ---
