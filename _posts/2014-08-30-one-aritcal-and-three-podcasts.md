@@ -2,8 +2,6 @@
 title: 一篇长文和三段播客
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 最近又把 kindle 掏了出来，在路上开始看书。不管 Kindle 和其他阅读设备的争论如何，我依然觉得用 kindle 阅读更能让人专注。有时候也听听 podcast。不知道怎么的，当获取音乐的方式越来越多，却似乎越来越难找到真正喜欢的音乐了。也许这就是为什么我一直坚持过多的选择未必是一件好事。
 

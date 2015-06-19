@@ -2,8 +2,6 @@
 title: 微信的名字
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 大发同学天天沉溺于微信，我心思我也玩一下吧！我把我那张最帅的照片设成了头像，结果还真是天天有人跟我打招呼！可是其中没有一个是女的！全是清一色的大老爷们！里面包括大叔，非主流，彪爷们等等。
 

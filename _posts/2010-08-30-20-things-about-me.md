@@ -2,8 +2,6 @@
 title: 写20件关於自己的事情
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 
 写20件关於自己的事情 

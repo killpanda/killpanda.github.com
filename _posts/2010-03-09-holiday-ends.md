@@ -2,10 +2,6 @@
 title: 假期结束了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
-tags:
-  - regular
 ---
 海拉尔已经只有我们两个人，其他的人都已经开学了。我总是想炫耀一下天天在家的无所事事来气气上学的孩子，可是发现他们已经忙碌的不上网了。
 

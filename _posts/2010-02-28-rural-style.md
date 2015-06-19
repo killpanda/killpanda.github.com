@@ -2,10 +2,6 @@
 title: 土死了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
-tags:
-  - regular
 ---
 海拉尔身为一个小地方,自然有着土里土气的一面,比方说元宵节放烟花,老老少少都在零下40度的天气跑出去看.又因为他身在一个神奇的国度,所以更加土气.
 
@@ -18,7 +14,3 @@ tags:
 记得以前我那个傻逼爸爸还逼着我们全家去看烟花,冻得傻逼呵呵,有一年还去了广场照相,40度的天广场上就我们一家三口.
 
 我真好奇我是怎么长大的
-
-<div class="blogger-post-footer">
-  <img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/6758710105149407451-2404336344188981937?l=vellyempire.blogspot.com" alt="" />
-</div>

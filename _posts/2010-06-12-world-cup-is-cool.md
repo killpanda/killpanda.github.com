@@ -2,8 +2,6 @@
 title: 世界杯很激情 寝室人们很淡定
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 
 初中的时候,在电脑里翻出来了爸爸上毛网用的自由门

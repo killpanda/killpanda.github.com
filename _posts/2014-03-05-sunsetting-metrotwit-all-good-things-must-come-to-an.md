@@ -2,9 +2,6 @@
 title: 'Sunsetting MetroTwit: all good things must come to an end'
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
-format: link
 ---
 ```
 MetroTwit, the best Twitter Client, has been discontinued on Window Platform discontinued.

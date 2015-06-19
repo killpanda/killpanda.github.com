@@ -2,9 +2,6 @@
 title: 中文排版上的一些規則
 author: killpanda
 layout: post
-tags:
-  - css
-  - Typography
 ---
 #### 選擇合適的單位
 

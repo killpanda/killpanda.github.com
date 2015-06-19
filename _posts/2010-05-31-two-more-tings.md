@@ -2,8 +2,6 @@
 title: 两件事
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 
 第一件事:昨天等考试结束去占座 第一次离真实的考场不到20米 有种莫名的紧张和压抑

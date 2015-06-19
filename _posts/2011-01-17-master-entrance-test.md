@@ -2,8 +2,6 @@
 title: 恩 考研结束了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 考研结束了,不过这个不关我的事情,我只是标题党而已.
 

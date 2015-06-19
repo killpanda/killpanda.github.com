@@ -1,8 +1,7 @@
 ---
+title: the Architecture Building
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 上学之后最想干的事儿其实是有一份稳定的工作之后，去 Architecture 学院读一门课。  
 我实在是太爱那里了。

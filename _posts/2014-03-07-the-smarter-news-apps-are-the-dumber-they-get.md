@@ -2,8 +2,6 @@
 title: The smarter news apps are, the dumber they get
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 [The smarter news apps are, the dumber they get][1]
 

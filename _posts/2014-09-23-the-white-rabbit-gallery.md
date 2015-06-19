@@ -2,8 +2,6 @@
 title: The White Rabbit Gallery
 author: killpanda
 layout: post
-categories:
-  - life
 ---
 上周去了这个大白兔子艺术馆，它在 Central Park 的后面。我经过过好几次 Central Park，也知道他附近有好多奇奇怪怪的和艺术相关的建筑。但还真就没有去过那个地方。
 

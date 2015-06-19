@@ -2,10 +2,6 @@
 title: 小猫走了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
-tags:
-  - regular
 ---
 小猫就这样的死了.记得他刚来的时候,不听的叫唤,连吃东西都紧张的喵喵叫,然后晚上小狗好奇的看着小猫,小猫就挠小狗,小狗就怂了,爬成一条不动弹.
 

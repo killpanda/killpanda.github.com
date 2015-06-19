@@ -2,8 +2,6 @@
 title: 一日一程锴:程锴被隔离了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 程锴被隔壁的女朋友借走了 他那个操蛋的女朋友没家教 把程锴借给长春大学的同学玩了 结果今天长春大学被封闭了 程锴也被隔离在寝室了
 

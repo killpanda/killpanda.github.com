@@ -2,8 +2,6 @@
 title: an-alternate-universe
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 ```
 He started selling me on the screen quality, saying it had a better screen than any other tablet. I asked, “What do you mean? Which other tablets?”

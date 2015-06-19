@@ -2,7 +2,6 @@
 title: 'Seeing Through the Illusion: Understanding Apple’s Mastery of the Media'
 author: killpanda
 layout: post
-format: link
 ---
 
 [Seeing Through the Illusion: Understanding Apple’s Mastery of the Media](http://9to5mac.com/2014/08/29/seeing-through-the-illusion-understanding-apples-mastery-of-the-media/)

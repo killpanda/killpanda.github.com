@@ -2,8 +2,6 @@
 title: 我又华丽的上网了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 我终于耐不住寂寞把午夜网给开了 结果开心的发现原来只要不上youtube的话 教育网还是很尿性的
 

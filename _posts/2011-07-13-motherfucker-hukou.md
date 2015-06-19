@@ -2,8 +2,6 @@
 title: 办户口
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 据说这个世界上只有几个流氓国家有户口制度.
 

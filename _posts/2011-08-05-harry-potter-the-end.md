@@ -2,8 +2,6 @@
 title: 哈利波特的故事结束了
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 整个初中高中,哈利波特不知被我看了多少变,总是我每天睡觉前都要看书,而且放的永远是一本哈利波特.
 

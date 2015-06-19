@@ -2,10 +2,6 @@
 title: 买年货
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
-tags:
-  - regular
 ---
 假期看完了1984，我觉得对各种东西的认识开始越来越多了，少了那份最开始愤怒的冲动，虽然我依然很愤怒。和小红同学长谈了好久，竟然发现原来这帮人里，我第一聊了很深。然后发现即使没有酒，两个人坐在一起谈谈理想谈谈人生也很好。
 

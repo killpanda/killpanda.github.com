@@ -2,8 +2,6 @@
 title: Apple will acquire Beats
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 Apple nears acquire Beats for 3.2 billion. And this acquisition is agreed by both company.
 

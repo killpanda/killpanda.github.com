@@ -2,8 +2,6 @@
 title: 关于某锴的三四十事
 author: killpanda
 layout: post
-categories:
-  - Uncategorized
 ---
 某锴实在是一个让我觉得特喜庆的孩子,
 
