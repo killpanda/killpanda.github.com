@@ -4,7 +4,7 @@ author: killpanda
 layout: post
 ---
 
-![image]({{ site.url }}/assets/2020/cubed-cover.png)
+![image]({{ site.url }}/assets/2020/cubed-cover.jpg)
 
 虽然现代人都在办公室里上班，但似乎很少有人留意过办公室的变化过程。办公室和办公室工作在不同年代里是不一样的，比如《广告狂人》里西装革履的家伙们总要在办公室里喝一杯，又比如《硅谷》里的非常随意的工程师和他们的开放式办公环境。
 
@@ -12,9 +12,6 @@ layout: post
 
 印象最深的是对白领人群的描述。作为“知识阶级”，可以通过奋斗来让自己拥有更好的竞争力，从被盼望雇佣者变为雇佣者（然而这样的概率却是极少的）。所以公司逐渐学会了通过个性化，自由化的管理方式，来让白领更主动地来完成工作。白领人群自认为与蓝领阶层不同，但本质却是一样的。
 
-[本书豆瓣地址][https://book.douban.com/subject/30212306/]
+[本书豆瓣地址](https://book.douban.com/subject/30212306/)
 
-[好奇心日报对本书的介绍][http://www.qdaily.com/articles/53204.html]
-
-[][https://book.douban.com/subject/30212306/]
-
+[好奇心日报对本书的介绍](http://www.qdaily.com/articles/53204.html)
