@@ -1,4 +1,8 @@
-# 最近听
+---
+title: 最近听
+author: killpanda
+layout: post
+---
 
 > 我有点相信命，我特别喜欢Angus & Julia Stone。甚至我都英文名字都很没有创奇的起了叫Angus。
 > 
