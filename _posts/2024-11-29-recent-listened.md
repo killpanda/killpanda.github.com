@@ -4,7 +4,7 @@ author: killpanda
 layout: post
 ---
 
-> 我有点相信命，我特别喜欢Angus & Julia Stone。甚至我都英文名字都很没有创奇的起了叫Angus。
+> 我有点相信命，我特别喜欢Angus & Julia Stone。甚至我都英文名字都很没有创意的起了叫Angus。
 > 
 > 在我婚礼准备音乐的时候，他们刚刚出了「The Wedding Song」，一首非常好听的新歌。
 > 
