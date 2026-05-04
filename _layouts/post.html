@@ -1,15 +1,47 @@
 ---
 layout: default
 ---
-<div class="post">
+{% assign intro = page.excerpt | strip_html | strip_newlines | strip %}
 
-  <header class="post-header">
+<article class="article-wrap article-post">
+  <header class="article-header">
+    <p class="eyebrow">Essay / {{ page.date | date: "%Y" }}</p>
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%Y年%m月%d日" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% if intro != "" %}
+    <p class="lede">{{ intro }}</p>
+    {% endif %}
+
+    <p class="byline">
+      <span class="avatar">{{ page.author | default: site.title | slice: 0, 2 }}</span>
+      <span>{{ page.author | default: site.title }} · {{ page.date | date: "%Y-%m-%d" }}</span>
+    </p>
+
+    <div class="hero-figure"></div>
+    <p class="hero-caption">写作不是归档完成，而是把一段时间重新排版。</p>
   </header>
 
-  <article class="post-content">
+  <div class="post-content">
     {{ content }}
-  </article>
+  </div>
 
-</div>
+  <section class="related-reading">
+    <h2 class="section-title">More to read</h2>
+    <div class="related-grid">
+      {% assign related_count = 0 %}
+      {% for post in site.posts %}
+        {% if post.url != page.url %}
+        {% if related_count < 3 %}
+        {% assign related_excerpt = post.excerpt | strip_html | strip_newlines | strip %}
+        <a class="related-card" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="thumb"></div>
+          <p class="title">{{ post.title }}</p>
+          <p class="excerpt">{% if related_excerpt != "" %}{{ related_excerpt | truncate: 88 }}{% else %}继续读这篇文章。{% endif %}</p>
+          <p class="date">{{ post.date | date: "%Y-%m-%d" }}</p>
+        </a>
+        {% assign related_count = related_count | plus: 1 %}
+        {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+</article>

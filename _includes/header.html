@@ -1,19 +1,11 @@
-<header class="site-header">
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="wordmark" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ "/archive/" | prepend: site.baseurl }}">Archive</a>
+      <a href="{{ site.public_me }}">Public.me</a>
+      <a href="{{ "/feed.xml" | prepend: site.baseurl }}">Feed</a>
     </nav>
-
   </div>
-
 </header>

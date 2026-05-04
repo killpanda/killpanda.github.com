@@ -1,89 +1,60 @@
 /**
- * Site header
+ * Site shell
  */
-.site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+.site-shell {
+    min-height: 100vh;
 }
 
-.site-title {
-    font-size: 30px;
-    line-height: 56px;
-    margin-bottom: 0;
-    float: left;
-    text-decoration: none;
-    font-weight: 100;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+
+/**
+ * Site header
+ */
+.masthead {
+    background: rgba(255, 253, 249, 0.92);
+    border-bottom: 1px solid $grey-color-light;
+    backdrop-filter: blur(12px);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.masthead-inner {
+    @extend .wrapper;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+}
+
+.wordmark {
+    font-family: $mono-font-family;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    margin-bottom: 0;
+    text-decoration: none;
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    display: flex;
+    gap: 24px;
 
-    .menu-icon {
-        display: none;
-    }
+    a {
+        color: $grey-color;
+        font-family: $mono-font-family;
+        font-size: 11.5px;
+        letter-spacing: 0.1em;
+        text-decoration: none;
+        text-transform: uppercase;
 
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
+        &:hover {
+            color: $text-color;
         }
     }
 
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
+        gap: 14px;
     }
 }
 
@@ -94,152 +65,409 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    margin-top: 96px;
+    padding: 40px 0 64px;
 }
 
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+.site-footer-inner {
+    @extend .wrapper;
 }
 
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
+.site-footer-kicker {
+    color: $brand-color;
+    font-family: $mono-font-family;
+    font-size: 11.5px;
+    letter-spacing: 0.12em;
+    margin-bottom: 20px;
+    text-transform: uppercase;
 }
 
-.footer-col-wrapper {
-    font-size: 15px;
+.site-footer-grid {
+    border-top: 1px solid $grey-color-light;
+    display: grid;
+    gap: 24px;
+    grid-template-columns: minmax(0, 1.7fr) minmax(220px, 0.8fr);
+    padding-top: 28px;
+
+    @include media-query($on-palm) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.site-footer-title {
+    font-family: $display-font-family;
+    font-size: 28px;
+    line-height: 1.1;
+    margin-bottom: 10px;
+}
+
+.site-footer-text {
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+    margin-bottom: 0;
+    max-width: 560px;
 }
 
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-
-
-/**
- * Page content
- */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
-.page-heading {
-    font-size: 20px;
-}
-
-.post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
+.site-footer-links {
+    display: grid;
+    gap: 10px;
+    justify-content: start;
 
     a {
-        color: $text-color;
+        font-family: $mono-font-family;
+        font-size: 12px;
+        letter-spacing: 0.08em;
         text-decoration: none;
-
-        &:hover {
-            color: $brand-color;
-        }
+        text-transform: uppercase;
     }
 }
 
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
-}
-
-.post-link {
-    display: block;
-    font-size: 24px;
-}
 
 
 /**
- * Posts
+ * Shared article shell
  */
-.post-header {
-    margin-bottom: $spacing-unit;
+.page-content {
+    padding-top: 0;
 }
 
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+.article-wrap {
+    @extend .wrapper;
+    padding-bottom: 8px;
+    padding-top: 72px;
+}
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
+.article-header {
+    margin-bottom: 56px;
+}
+
+.simple-header {
+    margin-bottom: 40px;
+}
+
+.eyebrow {
+    color: $brand-color;
+    font-family: $mono-font-family;
+    font-size: 11.5px;
+    letter-spacing: 0.12em;
+    margin-bottom: 22px;
+    text-transform: uppercase;
+}
+
+.post-title,
+.home-title {
+    font-size: clamp(44px, 7vw, 76px);
+    letter-spacing: -0.025em;
+    line-height: 1.05;
+    margin-bottom: 28px;
+}
+
+.lede,
+.home-intro {
+    color: $grey-color;
+    font-size: 21px;
+    line-height: 1.55;
+    margin-bottom: 48px;
+    max-width: 580px;
+}
+
+.byline {
+    align-items: center;
+    color: $grey-color;
+    display: flex;
+    font-family: $mono-font-family;
+    font-size: 12px;
+    gap: 14px;
+    margin-bottom: 56px;
+}
+
+.avatar {
+    align-items: center;
+    background: $surface-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 999px;
+    color: $grey-color;
+    display: inline-flex;
+    font-family: $mono-font-family;
+    font-size: 11px;
+    height: 32px;
+    justify-content: center;
+    letter-spacing: 0.04em;
+    text-transform: lowercase;
+    width: 32px;
+}
+
+.hero-figure {
+    aspect-ratio: 16 / 9;
+    background:
+        radial-gradient(circle at 30% 35%, rgba(226, 204, 190, 0.9), transparent 30%),
+        radial-gradient(circle at 70% 60%, rgba(241, 234, 220, 0.95), transparent 34%),
+        linear-gradient(180deg, #fbf8f2 0%, #f3ece2 100%);
+    border: 1px solid $grey-color-light;
+    margin-bottom: 14px;
+    overflow: hidden;
+    position: relative;
+}
+
+.hero-caption {
+    color: $grey-color;
+    font-family: $mono-font-family;
+    font-size: 10.5px;
+    letter-spacing: 0.04em;
+    margin-bottom: 0;
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 0;
 
     h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
+        font-size: clamp(28px, 3.5vw, 38px);
+        margin: 72px 0 20px;
     }
 
     h3 {
         font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
+        margin: 52px 0 18px;
     }
 
     h4 {
         font-size: 20px;
+        margin: 36px 0 16px;
+    }
 
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+    p,
+    ul,
+    ol,
+    pre,
+    figure {
+        margin-bottom: 24px;
+    }
+
+    img {
+        border: 1px solid $grey-color-light;
+        display: block;
+        width: 100%;
+    }
+
+    figure {
+        margin: 48px 0;
+    }
+}
+
+
+
+/**
+ * Home
+ */
+.home-hero {
+    padding-bottom: 24px;
+}
+
+.home-stream {
+    padding-top: 8px;
+}
+
+.section-heading {
+    align-items: baseline;
+    border-top: 1px solid $grey-color-light;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 28px;
+    padding-top: 28px;
+
+    @include media-query($on-palm) {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+.section-title {
+    font-family: $mono-font-family;
+    font-size: 11.5px;
+    letter-spacing: 0.1em;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.section-link {
+    color: $grey-color;
+    font-family: $mono-font-family;
+    font-size: 11.5px;
+    letter-spacing: 0.08em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.home-list {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    @include media-query($on-palm) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.home-card {
+    border-top: 1px solid $grey-color-light;
+    padding-top: 20px;
+
+    h3 {
+        font-size: 28px;
+        margin-bottom: 12px;
+    }
+
+    p:last-child {
+        color: $grey-color;
+        margin-bottom: 0;
+    }
+}
+
+.card-meta {
+    color: $grey-color;
+    font-family: $mono-font-family;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    margin-bottom: 12px;
+}
+
+
+
+/**
+ * Archive
+ */
+.archive-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.archive-list .year {
+    border-top: 1px solid $grey-color-light;
+    margin-bottom: 20px;
+    padding-top: 28px;
+}
+
+.archive-list .year h2 {
+    margin: 0;
+}
+
+.archive-list .item {
+    align-items: baseline;
+    border-bottom: 1px solid rgba(221, 211, 200, 0.6);
+    display: grid;
+    gap: 18px;
+    grid-template-columns: 140px minmax(0, 1fr);
+    margin-bottom: 0;
+    padding: 14px 0;
+
+    time {
+        color: $grey-color;
+        font-family: $mono-font-family;
+        font-size: 11.5px;
+        letter-spacing: 0.04em;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    @include media-query($on-palm) {
+        gap: 4px;
+        grid-template-columns: 1fr;
+    }
+}
+
+
+
+/**
+ * Related posts
+ */
+.related-reading {
+    border-top: 1px solid $grey-color-light;
+    margin-top: 96px;
+    padding-top: 48px;
+}
+
+.related-grid {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    @include media-query($on-palm) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.related-card {
+    display: block;
+    text-decoration: none;
+
+    .thumb {
+        aspect-ratio: 16 / 10;
+        background: linear-gradient(135deg, rgba(244, 238, 229, 1) 0%, rgba(231, 218, 203, 1) 100%);
+        border: 1px solid $grey-color-light;
+        margin-bottom: 14px;
+        transition: border-color 0.2s;
+    }
+
+    .title {
+        font-family: $display-font-family;
+        font-size: 16px;
+        letter-spacing: -0.01em;
+        line-height: 1.35;
+        margin-bottom: 8px;
+    }
+
+    .excerpt {
+        color: $grey-color;
+        font-size: 13.5px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+    }
+
+    .date {
+        color: $grey-color;
+        font-family: $mono-font-family;
+        font-size: 10.5px;
+        letter-spacing: 0.04em;
+        margin-bottom: 0;
+    }
+
+    &:hover .thumb {
+        border-color: $brand-color;
+    }
+}
+
+
+
+/**
+ * Responsive
+ */
+@include media-query($on-palm) {
+    .masthead-inner {
+        height: 56px;
+    }
+
+    .article-wrap {
+        padding-top: 44px;
+    }
+
+    .post-title,
+    .home-title {
+        font-size: clamp(36px, 10vw, 52px);
+        letter-spacing: -0.02em;
+    }
+
+    .lede,
+    .home-intro {
+        font-size: 18.5px;
+    }
+
+    .post-content h2 {
+        font-size: clamp(24px, 6vw, 30px);
+    }
+
+    blockquote p {
+        font-size: 18px;
     }
 }

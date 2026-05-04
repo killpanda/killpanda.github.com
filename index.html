@@ -2,7 +2,26 @@
 layout: default
 ---
 
-<div class="home">
-  <h1 class="page-heading"><a href="/archive">Chaos isn't a pit. Chaos is a ladder.</a></h1>
-  <p><a href="https://public.me/killpanda">public.me</a></p>
-</div>
+<section class="home-hero article-wrap">
+  <p class="eyebrow">Notebook / Ongoing</p>
+  <h1 class="home-title">Chaos isn't a pit. Chaos is a ladder.</h1>
+  <p class="home-intro">{{ site.description }}</p>
+</section>
+
+<section class="article-wrap home-stream">
+  <div class="section-heading">
+    <h2 class="section-title">Recent writing</h2>
+    <a class="section-link" href="{{ "/archive/" | prepend: site.baseurl }}">See archive</a>
+  </div>
+
+  <div class="home-list">
+    {% for post in site.posts limit: 6 %}
+    {% assign teaser = post.excerpt | strip_html | strip_newlines | strip %}
+    <article class="home-card">
+      <p class="card-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <p>{% if teaser != "" %}{{ teaser | truncate: 120 }}{% else %}继续读这篇文章。{% endif %}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>

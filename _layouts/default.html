@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 
   {% include head.html %}
 
-  <body>
+  <body class="layout-{{ page.layout | default: 'default' }}{% if page.url == '/' %} page-home{% endif %}">
 
-    {% include header.html %}
+    <div class="site-shell">
+      {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+      <main class="page-content" aria-label="Content">
         {{ content }}
-      </div>
+      </main>
+
+      {% include footer.html %}
     </div>
 
   </body>

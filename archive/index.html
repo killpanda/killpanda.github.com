@@ -1,21 +1,26 @@
 ---
 layout: default
+title: Archive
 ---
 
-<div class="home">
+<section class="article-wrap archive-page">
+  <header class="article-header simple-header">
+    <p class="eyebrow">Archive</p>
+    <h1 class="post-title">All writing</h1>
+    <p class="lede">按年份整理，保留这个站点这些年断断续续留下来的东西。</p>
+  </header>
 
-  <ul class="post-list">
+  <ul class="archive-list">
     {% for post in site.posts %}
       {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
       {% if year != y %}
         {% assign year = y %}
-        <li class="year"><h1>{{ y }}</h1></li>
+        <li class="year"><h2>{{ y }}</h2></li>
       {% endif %}
       <li class="item">
         <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
-
-</div>
+</section>
